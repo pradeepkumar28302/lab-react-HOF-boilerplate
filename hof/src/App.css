@@ -1,0 +1,29 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 2px solid black;
+}
+.display-box{
+  display: grid;
+  border-style: 1px solid black;
+  text-align: center;
+}
+.list-elements {
+  list-style-type: none;
+  display: flex;
+  color: blue;
+  font-size: large;
+  text-align: center;
+}
+
+.list-elements span {
+  margin-right: 20px; 
+  text-align: justify;
+  text-align: center;
+}
+
+ul{
+  text-align: center;
+  margin: 0 160px auto;
+}
